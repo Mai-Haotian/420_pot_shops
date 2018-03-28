@@ -1,2 +1,2 @@
 <h3>Project address:</h3>
-https://Mai-Haotian.github.io/420_pot_shops
+http://htmlpreview.github.io/?https://github.com/Mai-Haotian/420_pot_shops/blob/master/index.html
