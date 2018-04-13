@@ -227,9 +227,18 @@ p {
 
 @media only screen and (max-width: 480px) {
 
+   h1 {
+    line-height: 57.5px;
+   }
+
    #medmen1 {
    width: 100%;
    height: 320px;
+   }
+
+   #medmen2 {
+   width: 100%;
+   height: 220px;
    }
 }
 
@@ -239,6 +248,11 @@ p {
    width: 100%;
    height: 570px;
    }
+
+   #medmen2 {
+   width: 100%;
+   height: 370px;
+   }
 }
 
 @media only screen and (min-width: 768px) {
@@ -246,5 +260,10 @@ p {
    #medmen1 {
    width: 100%;
    height: 660px;
+   }
+
+   #medmen2 {
+   width: 100%;
+   height: 480px;
    }
 }
