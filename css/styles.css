@@ -225,4 +225,26 @@ p {
     text-align: center;
 }
 
+@media only screen and (max-width: 480px) {
 
+   #medmen1 {
+   width: 100%;
+   height: 320px;
+   }
+}
+
+@media only screen and (min-width: 481px) {
+
+   #medmen1 {
+   width: 100%;
+   height: 570px;
+   }
+}
+
+@media only screen and (min-width: 768px) {
+
+   #medmen1 {
+   width: 100%;
+   height: 660px;
+   }
+}
