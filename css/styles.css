@@ -227,43 +227,83 @@ p {
 
 @media only screen and (max-width: 480px) {
 
-   h1 {
-    line-height: 57.5px;
-   }
-
-   #medmen1 {
+   #swiper1 {
    width: 100%;
    height: 320px;
    }
 
-   #medmen2 {
+   #swiper2 {
    width: 100%;
    height: 220px;
+   }
+
+   #swiper3 {
+   width: 100%;
+   height: 270px;
+   }
+
+   #swiper4 {
+   width: 100%;
+   height: 340px;
+   }
+   #swiper5 {
+   width: 100%;
+   height: 280px;
    }
 }
 
 @media only screen and (min-width: 481px) {
 
-   #medmen1 {
+   #swiper1 {
    width: 100%;
    height: 570px;
    }
 
-   #medmen2 {
+   #swiper2 {
    width: 100%;
    height: 370px;
+   }
+
+   #swiper3 {
+   width: 100%;
+   height: 440px;
+   }
+
+   #swiper4 {
+   width: 100%;
+   height: 530px;
+   }
+
+   #swiper5 {
+   width: 100%;
+   height: 530px;
    }
 }
 
 @media only screen and (min-width: 768px) {
 
-   #medmen1 {
+   #swiper1 {
    width: 100%;
    height: 660px;
    }
 
-   #medmen2 {
+   #swiper2 {
    width: 100%;
    height: 480px;
+   }
+
+   #swiper3 {
+   width: 100%;
+   height: 520px;
+   }
+
+   #swiper4 {
+   width: 100%;
+   height: 640px;
+   }
+
+   #swiper5 {
+   width: 100%;
+   height: 550px;
    }
 }
